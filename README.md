@@ -50,22 +50,6 @@ I enjoy exploring new technologies, strengthening my programming skills and tran
 
 ---
 
-<!-- ================= CODING WORKSPACE ================= -->
-
-## `$ coding-space`
-
-<div align="center">
-
-<img src="./assets/coding-workspace.png" width="90%" alt="Coding workspace"/>
-
-<br/>
-
-<sub>Turning ideas into code, and code into solutions.</sub>
-
-</div>
-
----
-
 <!-- ================= TECH STACK ================= -->
 
 ## `$ ls ./tech-stack`
